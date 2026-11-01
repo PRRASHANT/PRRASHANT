@@ -1,73 +1,125 @@
 <div align="center">
 
-# Hi, I'm Prashant 👋
+# Prashant Kumar
 
-### MCA Student | Aspiring Software Developer | Building Practical Projects
+### Software Developer · Backend Engineering · Building with Purpose
 
-I enjoy turning ideas into working applications, exploring backend systems, and learning through hands-on development.
+**MCA Student | Exploring scalable systems, modern web applications & applied AI**
 
-[![GitHub](https://img.shields.io/badge/GitHub-PRRASHANT-181717?style=for-the-badge&logo=github)](https://github.com/PRRASHANT)
-![Profile views](https://komarev.com/ghpvc/?username=PRRASHANT&style=for-the-badge)
+[![Portfolio Projects](https://img.shields.io/badge/Explore-My_Projects-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRRASHANT?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=PRRASHANT&label=Profile%20Views&color=0e7490&style=for-the-badge)](https://github.com/PRRASHANT)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Backend+systems+that+solve+real+problems;Full-stack+experiments+and+practical+tools;Learning+by+building%2C+one+project+at+a+time" alt="Animated developer introduction" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Pursuing a **Master of Computer Applications (MCA)**
-- 💻 Building web applications and exploring backend development
-- 🌱 Practicing **JavaScript, Java, Python, HTML and CSS**
-- 🛠️ Interested in solving real-world problems through software
-- 🎯 Working toward cleaner code and more complete projects
+I'm **Prashant**, an MCA student with a growing interest in **backend engineering, full-stack development and applied AI**. I like exploring how real applications are designed—from APIs and databases to the interfaces people use.
 
-## 🧰 Technologies & Tools
+- Currently working on practical backend and full-stack projects.
+- Interested in API design, authentication, database consistency and scalable architecture.
+- Building stronger foundations in JavaScript, Java and Python.
+- Learning in public through experiments and projects.
+
+## Tech Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Languages & Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6) ![Java](https://img.shields.io/badge/Java-111827?style=flat-square) ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB) ![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6) ![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Backend & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248) ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
-## 🚀 Featured Projects
+## Selected Work
 
-| Project | Focus |
-|---|---|
-| 🏦 [Bank Transaction System](https://github.com/PRRASHANT/-Bank-Transaction-System) | Banking transaction application |
-| 🧮 [Financial Calculator](https://github.com/PRRASHANT/financial-calculator-) | Financial calculations through a web interface |
-| 🌦️ [Weather App](https://github.com/PRRASHANT/-weather-app-) | Weather-focused web application |
-| 🔳 [QR Code Generator](https://github.com/PRRASHANT/QR-Code-Generator) | QR generation with web technologies |
-| ✅ [To-Do Web App](https://github.com/PRRASHANT/To-Do-web-App) | Task-management interface |
-| 🛍️ [E-commerce](https://github.com/PRRASHANT/e-commerce) | E-commerce development practice |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Explore more on my [repositories page](https://github.com/PRRASHANT?tab=repositories).
+### [Backend Forge](https://github.com/PRRASHANT/backend-forge) 🔒
 
-## 📊 GitHub Activity
+**Backend-as-a-Service platform**
+
+Schema-driven, tenant-isolated REST APIs with authentication, role-based access control and a management dashboard.
+
+`Node.js` `MongoDB` `REST APIs`
+
+[Live demo](https://backend-forge-sigma.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### [ADROShield AI](https://github.com/PRRASHANT/adroshield-ai) 🔒
+
+**AI-assisted insurance evidence review**
+
+Multi-modal evidence analysis, explainable review-priority scoring and an investigator dashboard.
+
+`React` `TypeScript` `AI workflows`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Bank Transaction System](https://github.com/PRRASHANT/-Bank-Transaction-System)
+
+**Financial backend architecture**
+
+JWT authentication, transaction idempotency, ledger-style accounting and MongoDB aggregation.
+
+`Express.js` `MongoDB` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+### [Financial Calculator](https://github.com/PRRASHANT/financial-calculator-)
+
+**Browser-based financial tools**
+
+A web project focused on practical financial calculations and interactive interfaces.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+<sub>🔒 Private projects are shown as an overview; their source code is only accessible to authorized collaborators.</sub>
+
+### More Things I've Built
+
+[![Weather App](https://img.shields.io/badge/Weather_App-0F172A?style=for-the-badge&logo=cloud&logoColor=38BDF8)](https://github.com/PRRASHANT/-weather-app-)
+[![QR Generator](https://img.shields.io/badge/QR_Generator-0F172A?style=for-the-badge&logo=qrcode&logoColor=white)](https://github.com/PRRASHANT/QR-Code-Generator)
+[![To-Do App](https://img.shields.io/badge/To--Do_App-0F172A?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/PRRASHANT/To-Do-web-App)
+
+## GitHub Snapshot
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRRASHANT&show_icons=true&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=PRRASHANT&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRRASHANT&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most used public repository languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRRASHANT&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PRRASHANT&theme=github-dark-blue&hide_border=true)
+<sub>These third-party cards may occasionally be unavailable; language metrics reflect public repositories, not overall proficiency.</sub>
 
 </div>
 
-## 🤝 Let's Connect
-
-I'm interested in learning, collaborating, and discussing software development.
-
-**My work:** [github.com/PRRASHANT](https://github.com/PRRASHANT)
+---
 
 <div align="center">
 
-*Keep learning. Keep building. Keep improving.*
+### Let's build something meaningful.
+
+**Always learning. Always improving.**
+
+[View All Repositories](https://github.com/PRRASHANT?tab=repositories)
 
 </div>
