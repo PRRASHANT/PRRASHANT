@@ -1,86 +1,85 @@
 <div align="center">
 
-# Prashant Kumar
+# Hey, I'm Prashant 👋
 
-### Software Engineering · Generative AI · Backend Development
+### I build things for the web — and I'm exploring what AI can make possible.
 
-**MCA @ BIT Mesra (2025–2027)** · Ranchi, India · Open to software engineering opportunities
+**Software Development · Backend Systems · Generative AI**
 
-<a href="https://www.linkedin.com/in/prashant28102002"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:prashant28102002@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/PRRASHANT?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3300&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+LLM-powered+applications;Engineering+secure+REST+APIs;Turning+ideas+into+useful+software" alt="Focus areas: AI, backend development and practical software" />
+<a href="https://github.com/PRRASHANT?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Work-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
+<a href="https://www.linkedin.com/in/prashant28102002"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:prashant28102002@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 ---
 
-## About
+### A little about me
 
-I'm an **MCA student at Birla Institute of Technology, Mesra**, interested in **software engineering, Generative AI and backend systems**. My work includes a document question-answering application built with **RAG, LangChain, FAISS and the Groq API**, as well as backend platforms with authentication, access control and usage analytics.
+I'm an MCA student at **BIT Mesra** who enjoys building useful software and understanding how things work behind the scenes. Lately, I've been especially interested in **LLM-powered applications**, **API design**, and the engineering decisions that make software reliable.
 
-- **250+** data structures and algorithms problems solved
-- Interested in developing and evaluating **LLM-powered features** and scalable APIs
-- Experience with **Python, JavaScript, Java, SQL** and modern web technologies
+I like projects that teach me something new — whether that's retrieving the right context for an AI answer, designing a secure transaction flow, or making a complex tool feel simple to use.
 
-## Technical Toolkit
+### What I work with
 
-| Area | Technologies |
-|:--|:--|
-| **Languages** | Python · JavaScript · Java · SQL · HTML · CSS |
-| **AI & LLMs** | RAG · LangChain · FAISS · Groq API · Embeddings · Semantic Search · Prompt Engineering |
-| **Backend** | Node.js · Express.js · REST APIs · JWT · RBAC · Mongoose |
-| **Frontend** | React.js · Redux Toolkit · Tailwind CSS · Bootstrap |
-| **Databases** | MongoDB · MySQL · Aggregation Pipelines |
-| **Tools** | Git · GitHub · VS Code · Vercel |
+<div align="center">
 
-## Selected Projects
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+**Building & experimenting**
+
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=langchain&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E) ![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248) ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
+
+### Projects worth exploring
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### NotebookLM-Lite
-**RAG Document Q&A Application**
+#### 🧠 NotebookLM-Lite
+**Ask questions about your documents.**
 
-Built a document-grounded question-answering workflow with document parsing, overlapping text chunks, FAISS semantic retrieval and Groq-powered answers constrained by retrieved context.
+A RAG-based experiment in making document knowledge searchable and conversational. It uses document chunking, FAISS retrieval, and an LLM to answer from relevant context instead of guessing.
 
 `Python` `LangChain` `FAISS` `Groq API`
 
-*Repository link to be added when available.*
+*Repository link coming soon.*
 
 </td>
 <td width="50%" valign="top">
 
-### [Backend Forge](https://github.com/PRRASHANT/backend-forge) 🔒
-**Backend-as-a-Service Platform**
+#### ⚙️ [Backend Forge](https://github.com/PRRASHANT/backend-forge) 🔒
+**Less boilerplate. More building.**
 
-Built schema-driven REST APIs with dynamic data models, JWT authentication, role-based access control, API keys, rate limiting and usage analytics.
+A Backend-as-a-Service project where schemas become working APIs. Building it meant thinking about dynamic models, access control, tenant isolation, and how developers manage their data.
 
-`Node.js` `Express.js` `MongoDB` `Mongoose`
+`Node.js` `Express` `MongoDB` `REST APIs`
 
-[Live demo](https://backend-forge-sigma.vercel.app)
+[Try the demo](https://backend-forge-sigma.vercel.app)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Backend Transaction System](https://github.com/PRRASHANT/-Bank-Transaction-System)
-**Secure Transaction Processing**
+#### 🏦 [Bank Transaction System](https://github.com/PRRASHANT/-Bank-Transaction-System)
+**Getting the details right matters.**
 
-Implemented account management, money transfers, ledger tracking, idempotent transaction handling and MongoDB-based balance calculations.
+An API-focused project exploring authentication, transfers, ledger records, and idempotency — the less visible pieces that help financial operations behave predictably.
 
-`Node.js` `Express.js` `MongoDB` `JWT`
+`Node.js` `JWT` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
-### [Financial Calculator](https://github.com/PRRASHANT/financial-calculator-)
-**Financial Planning Tools**
+#### 📈 [Financial Calculator](https://github.com/PRRASHANT/financial-calculator-)
+**Making numbers easier to understand.**
 
-Contributed financial calculation features including SIP, inflation-adjusted SIP, lump sum and retirement calculators during my internship.
+A collection of financial planning tools, including SIP and retirement calculations. I also worked on financial calculator features and visualizations during my internship at WebClass.
 
 `JavaScript` `HTML` `CSS` `D3.js`
 
@@ -88,36 +87,20 @@ Contributed financial calculation features including SIP, inflation-adjusted SIP
 </tr>
 </table>
 
-<sub>🔒 Backend Forge is a private repository; its source is visible only to authorized collaborators.</sub>
+<sub>🔒 Backend Forge is a private repository, so the source is available only to authorized collaborators.</sub>
 
-## Experience
+### Smaller builds, big lessons
 
-**Software Developer Intern — WebClass** · Bengaluru, India  
-*April 2024 – May 2024*
-
-- Built and optimized financial calculator features used by **1,000+ users**.
-- Developed responsive interfaces with JavaScript, HTML and CSS.
-- Integrated **D3.js** visualizations for clearer presentation of financial data.
-
-## Education
-
-| Degree | Institution | Period |
-|:--|:--|:--|
-| **MCA** · CGPA 7.71 | Birla Institute of Technology, Mesra | 2025–2027 |
-| **BCA** · CGPA 8.4 | MS Ramaiah College of Arts, Science & Commerce, Bengaluru | 2021–2024 |
-
-## Certifications & Foundations
-
-**Certifications:** MERN Stack Development · Java & OOP · Data Structures & Algorithms · SQL
-
-**Core CS:** DSA · OOP · DBMS · Operating Systems · Computer Networks
+[Weather App](https://github.com/PRRASHANT/-weather-app-) · [QR Code Generator](https://github.com/PRRASHANT/QR-Code-Generator) · [To-Do App](https://github.com/PRRASHANT/To-Do-web-App) · [More repositories](https://github.com/PRRASHANT?tab=repositories)
 
 ---
 
 <div align="center">
 
-### Let's connect and build useful software.
+### Always curious about what to build next.
 
-[LinkedIn](https://www.linkedin.com/in/prashant28102002) · [Email](mailto:prashant28102002@gmail.com) · [Repositories](https://github.com/PRRASHANT?tab=repositories)
+If you're working on interesting developer tools, backend systems, or AI applications, I'd love to connect.
+
+[**LinkedIn**](https://www.linkedin.com/in/prashant28102002) · [**Email**](mailto:prashant28102002@gmail.com) · [**GitHub**](https://github.com/PRRASHANT)
 
 </div>
