@@ -2,124 +2,122 @@
 
 # Prashant Kumar
 
-### Software Developer · Backend Engineering · Building with Purpose
+### Software Engineering · Generative AI · Backend Development
 
-**MCA Student | Exploring scalable systems, modern web applications & applied AI**
+**MCA @ BIT Mesra (2025–2027)** · Ranchi, India · Open to software engineering opportunities
 
-[![Portfolio Projects](https://img.shields.io/badge/Explore-My_Projects-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRRASHANT?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=PRRASHANT&label=Profile%20Views&color=0e7490&style=for-the-badge)](https://github.com/PRRASHANT)
+<a href="https://www.linkedin.com/in/prashant28102002"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:prashant28102002@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/PRRASHANT?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Backend+systems+that+solve+real+problems;Full-stack+experiments+and+practical+tools;Learning+by+building%2C+one+project+at+a+time" alt="Animated developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3300&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+LLM-powered+applications;Engineering+secure+REST+APIs;Turning+ideas+into+useful+software" alt="Focus areas: AI, backend development and practical software" />
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm **Prashant**, an MCA student with a growing interest in **backend engineering, full-stack development and applied AI**. I like exploring how real applications are designed—from APIs and databases to the interfaces people use.
+I'm an **MCA student at Birla Institute of Technology, Mesra**, interested in **software engineering, Generative AI and backend systems**. My work includes a document question-answering application built with **RAG, LangChain, FAISS and the Groq API**, as well as backend platforms with authentication, access control and usage analytics.
 
-- Currently working on practical backend and full-stack projects.
-- Interested in API design, authentication, database consistency and scalable architecture.
-- Building stronger foundations in JavaScript, Java and Python.
-- Learning in public through experiments and projects.
+- **250+** data structures and algorithms problems solved
+- Interested in developing and evaluating **LLM-powered features** and scalable APIs
+- Experience with **Python, JavaScript, Java, SQL** and modern web technologies
 
-## Tech Stack
+## Technical Toolkit
 
-<div align="center">
+| Area | Technologies |
+|:--|:--|
+| **Languages** | Python · JavaScript · Java · SQL · HTML · CSS |
+| **AI & LLMs** | RAG · LangChain · FAISS · Groq API · Embeddings · Semantic Search · Prompt Engineering |
+| **Backend** | Node.js · Express.js · REST APIs · JWT · RBAC · Mongoose |
+| **Frontend** | React.js · Redux Toolkit · Tailwind CSS · Bootstrap |
+| **Databases** | MongoDB · MySQL · Aggregation Pipelines |
+| **Tools** | Git · GitHub · VS Code · Vercel |
 
-**Languages & Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6) ![Java](https://img.shields.io/badge/Java-111827?style=flat-square) ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB) ![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6) ![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Backend & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248) ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
-## Selected Work
+## Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Backend Forge](https://github.com/PRRASHANT/backend-forge) 🔒
+### NotebookLM-Lite
+**RAG Document Q&A Application**
 
-**Backend-as-a-Service platform**
+Built a document-grounded question-answering workflow with document parsing, overlapping text chunks, FAISS semantic retrieval and Groq-powered answers constrained by retrieved context.
 
-Schema-driven, tenant-isolated REST APIs with authentication, role-based access control and a management dashboard.
+`Python` `LangChain` `FAISS` `Groq API`
 
-`Node.js` `MongoDB` `REST APIs`
-
-[Live demo](https://backend-forge-sigma.vercel.app)
+*Repository link to be added when available.*
 
 </td>
 <td width="50%" valign="top">
 
-### [ADROShield AI](https://github.com/PRRASHANT/adroshield-ai) 🔒
+### [Backend Forge](https://github.com/PRRASHANT/backend-forge) 🔒
+**Backend-as-a-Service Platform**
 
-**AI-assisted insurance evidence review**
+Built schema-driven REST APIs with dynamic data models, JWT authentication, role-based access control, API keys, rate limiting and usage analytics.
 
-Multi-modal evidence analysis, explainable review-priority scoring and an investigator dashboard.
+`Node.js` `Express.js` `MongoDB` `Mongoose`
 
-`React` `TypeScript` `AI workflows`
+[Live demo](https://backend-forge-sigma.vercel.app)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Bank Transaction System](https://github.com/PRRASHANT/-Bank-Transaction-System)
+### [Backend Transaction System](https://github.com/PRRASHANT/-Bank-Transaction-System)
+**Secure Transaction Processing**
 
-**Financial backend architecture**
+Implemented account management, money transfers, ledger tracking, idempotent transaction handling and MongoDB-based balance calculations.
 
-JWT authentication, transaction idempotency, ledger-style accounting and MongoDB aggregation.
-
-`Express.js` `MongoDB` `JWT`
+`Node.js` `Express.js` `MongoDB` `JWT`
 
 </td>
 <td width="50%" valign="top">
 
 ### [Financial Calculator](https://github.com/PRRASHANT/financial-calculator-)
+**Financial Planning Tools**
 
-**Browser-based financial tools**
+Contributed financial calculation features including SIP, inflation-adjusted SIP, lump sum and retirement calculators during my internship.
 
-A web project focused on practical financial calculations and interactive interfaces.
-
-`HTML` `CSS` `JavaScript`
+`JavaScript` `HTML` `CSS` `D3.js`
 
 </td>
 </tr>
 </table>
 
-<sub>🔒 Private projects are shown as an overview; their source code is only accessible to authorized collaborators.</sub>
+<sub>🔒 Backend Forge is a private repository; its source is visible only to authorized collaborators.</sub>
 
-### More Things I've Built
+## Experience
 
-[![Weather App](https://img.shields.io/badge/Weather_App-0F172A?style=for-the-badge&logo=cloud&logoColor=38BDF8)](https://github.com/PRRASHANT/-weather-app-)
-[![QR Generator](https://img.shields.io/badge/QR_Generator-0F172A?style=for-the-badge&logo=qrcode&logoColor=white)](https://github.com/PRRASHANT/QR-Code-Generator)
-[![To-Do App](https://img.shields.io/badge/To--Do_App-0F172A?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/PRRASHANT/To-Do-web-App)
+**Software Developer Intern — WebClass** · Bengaluru, India  
+*April 2024 – May 2024*
 
-## GitHub Snapshot
+- Built and optimized financial calculator features used by **1,000+ users**.
+- Developed responsive interfaces with JavaScript, HTML and CSS.
+- Integrated **D3.js** visualizations for clearer presentation of financial data.
 
-<div align="center">
+## Education
 
-<img src="https://github-readme-stats.vercel.app/api?username=PRRASHANT&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRRASHANT&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most used public repository languages" />
+| Degree | Institution | Period |
+|:--|:--|:--|
+| **MCA** · CGPA 7.71 | Birla Institute of Technology, Mesra | 2025–2027 |
+| **BCA** · CGPA 8.4 | MS Ramaiah College of Arts, Science & Commerce, Bengaluru | 2021–2024 |
 
-<sub>These third-party cards may occasionally be unavailable; language metrics reflect public repositories, not overall proficiency.</sub>
+## Certifications & Foundations
 
-</div>
+**Certifications:** MERN Stack Development · Java & OOP · Data Structures & Algorithms · SQL
+
+**Core CS:** DSA · OOP · DBMS · Operating Systems · Computer Networks
 
 ---
 
 <div align="center">
 
-### Let's build something meaningful.
+### Let's connect and build useful software.
 
-**Always learning. Always improving.**
-
-[View All Repositories](https://github.com/PRRASHANT?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/prashant28102002) · [Email](mailto:prashant28102002@gmail.com) · [Repositories](https://github.com/PRRASHANT?tab=repositories)
 
 </div>
